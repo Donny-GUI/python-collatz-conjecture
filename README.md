@@ -3,13 +3,6 @@
 # python-collatz-conjecture
 Collectz Conjecture Grapher and Classes for use in Python
 
-## additional information
-
-https://en.wikipedia.org/wiki/Collatz_conjecture
-
-https://en.wikipedia.org/wiki/Lothar_Collatz
-
-![220px-Lothar_Collatz](https://user-images.githubusercontent.com/108424001/196818564-c0b0b9a6-d939-4eb4-82cd-9a13bbf1d3c1.jpg)
 
 
 ## About
@@ -44,3 +37,13 @@ collatz_graph = CollatzGraph([13,12,456])
 collatz_graph.line()
 ```
 ![Screenshot from 2022-10-19 15-31-11](https://user-images.githubusercontent.com/108424001/196817503-95a3334c-3327-4c2a-9aac-f5f3546a3b00.png)
+
+
+## additional information
+
+https://en.wikipedia.org/wiki/Collatz_conjecture
+
+https://en.wikipedia.org/wiki/Lothar_Collatz
+
+![220px-Lothar_Collatz](https://user-images.githubusercontent.com/108424001/196818564-c0b0b9a6-d939-4eb4-82cd-9a13bbf1d3c1.jpg)
+
